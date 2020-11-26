@@ -446,7 +446,7 @@
 ```
 대장 바퀴는 톰의 가족들이 새벽 내내 톰을 찾고 있었다는 사실을 말해주었다.
 
-<img width="1280" alt="Artboard 1cockroach" src="https://user-images.githubusercontent.com/74279304/100342831-e5a85380-3021-11eb-9523-443f05801f1b.png">
+<img width="1280" alt="Artboard 1cockroach" src="https://user-images.githubusercontent.com/74279304/100342831-e5a85380-3021-11eb-9523-443f05801f1b.png" width="50%" height="50%">
 
 
 ```
