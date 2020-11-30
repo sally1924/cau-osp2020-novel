@@ -22,7 +22,8 @@
 꼭 진심이 담겨있어야 하는 거 잊지 말고.
 ```
 <!--하늘에 소리치는 조오커 왕-->
-![joker](https://user-images.githubusercontent.com/74413983/100602614-772c0400-3347-11eb-9561-38e70580e7e6.jpg)
+<p align="center"> 
+<img src ="https://user-images.githubusercontent.com/74413983/100602614-772c0400-3347-11eb-9561-38e70580e7e6.jpg" width="50%" height="50%">
 
 조오커 왕은 이렇게 말하고, 허공을 향해 소리쳤다.
 그들이 알아들을 수 없는 단어를 내뱉자, 허공에 신비한 문이 나타났다.
